@@ -8,6 +8,8 @@ This is a comprehensive multilingual evaluation covering 90 languages, comparing
 |---|:---:|:---:|
 | **Average** | **72.7% +/- 1.2%** | **60.8% +/- 1.3%** |
 
+> **Personal note:** Languages where Gemini outperforms Chandra 2: af, ar, bs, ca, fi, hi, hu, jv, ko, ku, lv, ms, pl, ps, sk, sq, su, th, tr, ur, vi. Worth investigating why Chandra underperforms on some of these (e.g. su, vi, ar).
+
 ## Results by Language
 
 | Language | Chandra 2 | Gemini 2.5 Flash |
